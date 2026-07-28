@@ -7,6 +7,7 @@
     "content-hash": "9fb4479c02537ee2217706a1faa4f46e",
     "packages": [
         {
+
             "name": "psr/cache",
             "version": "3.0.0",
             "source": {
@@ -1188,6 +1189,8 @@
             "time": "2026-06-27T08:31:18+00:00"
         },
         {
+=======
+>>>>>>> d56c66f (add all)
             "name": "symfony/flex",
             "version": "v2.11.0",
             "source": {
@@ -1259,6 +1262,7 @@
                 }
             ],
             "time": "2026-05-29T17:25:22+00:00"
+<<<<<<< HEAD
         },
         {
             "name": "symfony/framework-bundle",
@@ -2542,6 +2546,8 @@
                 }
             ],
             "time": "2026-06-08T20:24:16+00:00"
+=======
+>>>>>>> d56c66f (add all)
         }
     ],
     "packages-dev": [],

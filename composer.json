@@ -1,5 +1,7 @@
 {
     "type": "project",
+    "name": "ambdallah/ousmane",
+    "description": "description de mon projet symfony",	
     "license": "proprietary",
     "minimum-stability": "stable",
     "prefer-stable": true,
@@ -17,17 +19,7 @@
 
 
 
-    "require-dev": {
-
-    "require-dev": {
-
-
-    "require-dev": {
-
-
-    "require-dev": {
-
-    },
+    "require-dev": {},
     "config": {
         "allow-plugins": {
             "php-http/discovery": true,
@@ -63,9 +55,6 @@
             "cache:clear": "symfony-cmd",
             "assets:install %PUBLIC_DIR%": "symfony-cmd"
         },
-
-        "auto-scripts": [
-        ],
 
         "post-install-cmd": [
             "@auto-scripts"

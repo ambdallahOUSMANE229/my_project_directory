@@ -3,7 +3,7 @@
         'name' => 'ambdallah/ousmane',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '1c37f012dc4cb2ba8da26d688c37ef31ff35994a',
+        'reference' => '788b03584e65e97dd2d4e4b90c9655ad7cba83e9',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'ambdallah/ousmane' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '1c37f012dc4cb2ba8da26d688c37ef31ff35994a',
+            'reference' => '788b03584e65e97dd2d4e4b90c9655ad7cba83e9',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

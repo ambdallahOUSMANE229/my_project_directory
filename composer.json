@@ -1,7 +1,7 @@
 {
     "type": "project",
     "name": "ambdallah/ousmane",
-    "description": "description de mon projet symfony",	
+    "description": "description du projet symfony",	
     "license": "proprietary",
     "minimum-stability": "stable",
     "prefer-stable": true,
